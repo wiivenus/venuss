@@ -1,2 +1,0 @@
-# venuss
-nose
